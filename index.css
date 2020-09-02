@@ -1,0 +1,57 @@
+*{
+
+}
+
+html{
+    font-size:62.5%;
+}
+
+body{
+    font-size:1.6rem;
+    line-height:1.5;
+}
+
+a{
+    display:inline-block;
+    margin:5%;
+    padding:10px;
+    text-align:center;
+    color:white;
+    width: 10%;
+    height: 25px;
+}
+
+.plan{
+    border:1px solid salmon;
+    border-radius:10px;
+    background-color:salmon;
+}
+.learn{
+    border:1px solid lightblue;
+    border-radius:10px;
+    background-color:lightblue;
+}
+.involve{
+    border:1px solid gold;
+    border-radius:10px;
+    background-color:gold;
+}
+.header-img{
+    display:inline-block;
+    width:600px;
+    height:600px;
+}
+
+.summary{
+    display:inline-block;
+    margin:100px;
+    padding:100px;
+}
+
+h1{
+    font-size:70px;
+}
+.rv{
+    width:200px;
+    height:200px;
+}
