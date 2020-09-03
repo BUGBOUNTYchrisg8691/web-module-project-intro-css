@@ -73,13 +73,20 @@ h4 {
     font-size: 1.5rem;
 }
 
+.fire p,
+.rv p {
+    width: 20%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
 .more-info {
     background-color: peru;
     text-align: center;
     color: white;
     margin-left: auto;
     margin-right: auto;
-    width: 80%;
+    width: 60%;
 }
 
 .fire-img {
@@ -102,7 +109,7 @@ section.rv {
     display: block;
     margin-left: auto;
     margin-right: auto;
-    width: 80%;
+    width: 60%;
     text-align: center;
 }
 
@@ -110,5 +117,6 @@ section.rv {
     display: block;
     margin-left: auto;
     margin-right: auto;
-    width: 80%;
+    width: 60%;
+    height: 20rem;
 }
