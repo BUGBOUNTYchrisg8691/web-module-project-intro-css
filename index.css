@@ -29,6 +29,10 @@ a {
     height: 25px;
 }
 
+a:hover {
+    opacity: 50%;
+}
+
 .plan {
     border: 1px solid salmon;
     border-radius: 10px;
